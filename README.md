@@ -7,8 +7,8 @@
 ## Project Setup
 
 ```bash
-git clone https://github.com/Bakhaw/nitro-stuffs-front.git
-cd nitro-stuffs-front/
+git clone https://github.com/Bakhaw/twitch-api.git
+cd twitch-api/
 npm install
 npm run dev // now running on localhost:3000
 ```
